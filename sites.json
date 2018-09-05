@@ -1,0 +1,7 @@
+{ "_id" : { "$oid" : "5b752653c9ed8c22fc061816" }, "Name" : "1st step", "Category" : "Footwears", "SubCategory" : "Men", "URL" : "https://1ststep.pk/", "__v" : 0 }
+{ "_id" : { "$oid" : "5b7526fdc9ed8c22fc061817" }, "Name" : "adidas", "Category" : "Footwears", "SubCategory" : "Men", "URL" : "https://www.adidas.com", "__v" : 0 }
+{ "_id" : { "$oid" : "5b752788c9ed8c22fc061818" }, "Name" : "Baby Shop", "Category" : "Clothing", "SubCategory" : "Kids", "URL" : "https://www.babyshop.com/", "__v" : 0 }
+{ "_id" : { "$oid" : "5b7527d2c9ed8c22fc061819" }, "Name" : "Bareeze", "Category" : "Clothing", "SubCategory" : "Women", "URL" : "http://www.bareeze.com/", "__v" : 0 }
+{ "_id" : { "$oid" : "5b75281fc9ed8c22fc06181a" }, "Name" : "Bissino", "Category" : "Clothing", "SubCategory" : "Men", "URL" : "https://bissino.com/", "__v" : 0 }
+{ "_id" : { "$oid" : "5b752c72c9ed8c22fc06181b" }, "Name" : "Bonanza Satrangi", "Category" : "Clothing", "SubCategory" : "Women", "URL" : "https://www.bonanzasatrangi.com/", "__v" : 0 }
+{ "_id" : { "$oid" : "5b752cacc9ed8c22fc06181c" }, "Name" : "lawrencepur", "Category" : "Clothing", "SubCategory" : "Men", "URL" : "https://www.lawrencepur.com", "__v" : 0 }
